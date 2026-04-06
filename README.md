@@ -5,4 +5,4 @@ The source code and related datasets will be released here soon.
 
 ## <img width="20" src="images/announcement.png"> Announcement
 - 25-04-03 This paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
-- 25-04-06 [Arxiv](https://arxiv.org/abs/2604.02896) version of the papaer is now available.
+- 25-04-06 [Arxiv](https://arxiv.org/abs/2604.02896) version of this papaer is now available.
