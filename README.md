@@ -3,7 +3,7 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 
 The source code and related datasets will be released here soon.
 
-## <img width="32" src="icons/announcement.png"> Announcement
+### <img width="32" src="icons/announcement.png"> Announcement
 - 25-04-03 This paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - 25-04-06 [Arxiv](https://arxiv.org/abs/2604.02896) version of this papaer is now available.
 
