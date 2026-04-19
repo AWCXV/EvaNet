@@ -14,6 +14,10 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 EvaJudge is an online evaluation platform for infrared and visible image fusion, powered by EvaNet.  
 It enables **fast, consistent, and zero-setup evaluation** of fusion results.
 
+<div align="center">
+  <img src="images/public_leaderboard.png" width="1000px" />
+  <p>"Public leaderboard for LLVIP dataset.  You are welcome to submit your papers, results, and model weights for inclusion in the Public Leaderboard."</p>
+</div>
 
 #### 🔹 How to Use
 1. Register an account [here](http://evanet.online:5001/#/register).
@@ -29,14 +33,7 @@ It enables **fast, consistent, and zero-setup evaluation** of fusion results.
 #### 🔹 Registration Policy
 - Registration is restricted to **institutional (organization-affiliated) email addresses only**  (e.g., university or company domains).  
 
-#### 🔹 Evaluation Policy
-- Each submission is evaluated using a unified EvaNet model to ensure **fair comparison**.
-- Results are automatically recorded and can be displayed on the private leaderboard.
 
-<div align="center">
-  <img src="images/public_leaderboard.png" width="1000px" />
-  <p>"Public leaderboard for LLVIP dataset.  You are welcome to submit your papers, results, and model weights for inclusion in the Public Leaderboard."</p>
-</div>
 
 ### <img width="22" src="icons/citation.png"> Citation
 If this work is helpful to you, please cite it as:
