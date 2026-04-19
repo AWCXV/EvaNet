@@ -4,10 +4,31 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 ### <img width="22" src="icons/announcement.png"> Announcement
 - 25-04-03 This paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - 25-04-06 [Arxiv](https://arxiv.org/abs/2604.02896) version of this papaer is now available.
-- 26-04-14 🚀 The online evaluation platform **EvaJudge** is now available:  
-  👉 http://evanet.online:5001/#/register  
-  It requires **no environment setup**, simply upload your image fusion results and obtain **complete benchmark evaluations within seconds**.  
-  ⚠️ Registration is restricted to **institutional (organization-affiliated) email addresses only**.
+- 26-04-14 🚀 The online evaluation platform **EvaJudge** is now available: http://evanet.online:5001
+
+#### 🔹 How to Use
+1. Register an account at: 👉 http://evanet.online:5001/#/register  
+2. Log in and select a dataset (e.g., LLVIP, MSRS).
+3. Upload your fusion results as a `.zip` file.
+4. The system will automatically evaluate your results and return a full set of metrics within seconds.
+
+#### 🔹 Submission Format
+- The uploaded file must be a `.zip` archive.
+- The archive should contain **only fused images** (no subfolders).
+- File names must correspond to the dataset image indices (e.g., `1.jpg`, `2.jpg`, ..., `N.jpg`).
+- Supported formats: `.jpg`, `.png`, `.bmp`, `.tif`.
+
+#### 🔹 Registration Policy
+- Registration is restricted to **institutional (organization-affiliated) email addresses only**  (e.g., university or company domains).  
+
+#### 🔹 Evaluation Policy
+- Each submission is evaluated using a unified EvaNet model to ensure **fair comparison**.
+- Results are automatically recorded and can be displayed on the leaderboard.
+- Excessive or malicious submissions may be restricted.
+
+#### 🔹 Notes
+- Please ensure that your uploaded results strictly follow the dataset format.
+- Invalid submissions (e.g., mismatched filenames or missing images) will be rejected automatically.
 
 ### <img width="22" src="icons/citation.png"> Citation
 If this work is helpful to you, please cite it as:
