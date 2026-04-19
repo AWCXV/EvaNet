@@ -15,7 +15,7 @@ EvaJudge is an online evaluation platform for infrared and visible image fusion,
 It enables **fast, consistent, and zero-setup evaluation** of fusion results.
 
 #### 🔹 How to Use
-1. Register an account.
+1. Register an account [here](http://evanet.online:5001/#/register).
 2. Log in and select a dataset (e.g., LLVIP, MSRS).
 3. Upload your fusion results as a `.zip` file.
 4. The system will automatically evaluate your results and return a full set of metrics within seconds.
