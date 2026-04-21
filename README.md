@@ -19,7 +19,6 @@ EvaJudge is an online evaluation platform for infrared and visible image fusion,
 
 <div align="center">
   <img src="images/public_leaderboard.png" width="1000px" />
-  <p>"Public Leaderboard for the LLVIP benchmark."</p>
 </div>
 
 #### 🔹 How to Use
