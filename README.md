@@ -7,7 +7,7 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 - 2026-04-03 This paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - 2026-04-14 The online evaluation platform **EvaJudge** is now available: 👉http://evanet.online:5001
 - 2026-04-21 Results of CVPR 25' TDFusion are now presented in the Public Leaderboard.
-- 2026-04-21 v1.1.3 Now you can click names to see the fusion examples of corresponding methods.
+- 2026-04-21 (v1.1.3) Now you can click names to see the fusion examples of corresponding methods.
 
 ---
 ### <img width="22" src="icons/usage.png"> EvaJudge Usage
