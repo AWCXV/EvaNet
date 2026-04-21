@@ -16,7 +16,7 @@ It enables **fast, consistent, and zero-setup evaluation** of fusion results.
 
 <div align="center">
   <img src="images/public_leaderboard.png" width="1000px" />
-  <p>"Public Leaderboard for the LLVIP benchmark. You are welcome to submit your papers, results, and model weights for inclusion in the Public Leaderboard (Email: chunyang_cheng@jiangnan.edu.cn)."</p>
+  <p>"Public Leaderboard for the LLVIP benchmark. You are welcome to submit your papers, results, and model weights for inclusion in the Public Leaderboard (Email: chunyang_cheng@jiangnan.edu.cn, WeChat: chengchunyang2016)."</p>
 </div>
 
 #### 🔹 How to Use
