@@ -1,11 +1,10 @@
-# EvaNet [TPAMI 2026]
-This is the offical implementation for the paper titled "EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment".
+# EvaNet [TPAMI 2026] 
+This is the offical implementation for the paper titled "EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment"([Arxiv](https://arxiv.org/abs/2604.02896), [Paper](https://ieeexplore.ieee.org/document/11477151)).
 
 ---
 
 ### <img width="22" src="icons/announcement.png"> Announcement
 - 25-04-03 This paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
-- 25-04-06 [Arxiv](https://arxiv.org/abs/2604.02896) version of this papaer is now available.
 - 26-04-14 The online evaluation platform **EvaJudge** is now available: 👉http://evanet.online:5001
 - 26-04-21 Results of CVPR 25' TDFusion are now presented in the Public Leaderboard.
 
