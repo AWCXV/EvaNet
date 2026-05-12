@@ -9,6 +9,7 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 - Apr 21, 2026 Results of TDFusion (CVPR 2025) have been added to the Public Leaderboard.
 - Apr 21, 2026 (v1.1.3) Support visualization: click a method name to view its fusion examples.
 - May 11, 2026 Results of [UPTP](https://arxiv.org/abs/2603.21820) (CVPR 2026) have been added to the Public Leaderboard.
+- May 12, 2026 Results of [FusionRegister](https://arxiv.org/abs/2603.07667) (CVPR 2026) have been added to the Public Leaderboard.
 
 ---
 ### <img width="22" src="icons/usage.png"> EvaJudge Usage
