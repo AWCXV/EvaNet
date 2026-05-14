@@ -16,7 +16,10 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 
 EvaJudge is an online evaluation platform for infrared and visible image fusion, powered by EvaNet. It enables **fast, consistent, and zero-setup evaluation** of fusion results.
 
- *You are welcome to submit your papers, results, and model weights for inclusion in the Public Leaderboard*.
+ *You are welcome to submit your papers, results, and model weights for inclusion in the Public Leaderboard.*.
+
+  Apart from the link on the platform, benchmark datasets can be founded [here](https://pan.baidu.com/s/1MC-Grq3dEel8ZFIxi3Gbrw?pwd=nmdh).
+
  
  📮Email: chunyang_cheng@jiangnan.edu.cn ☎️WeChat: chengchunyang2016
 
