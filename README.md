@@ -11,6 +11,7 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 - May 11, 2026: Results of [UPTP](https://arxiv.org/abs/2603.21820) (CVPR 2026) have been added to the Public Leaderboard.
 - May 12, 2026: Results of [FusionRegister](https://arxiv.org/abs/2603.07667) (CVPR 2026) have been added to the Public Leaderboard.
 - May 15, 2026: Results of [TEDFusion](https://github.com/Shaoyun2023/TEDFusion) (ICML 2026) have been added to the Public Leaderboard.
+- May 16, 2026: Results of [SMLNet](https://arxiv.org/abs/2411.10679) (IJCV 2025, first attemp of manifold learning) have been added to the Public Leaderboard.
 
 ---
 ### <img width="22" src="icons/usage.png"> EvaJudge Usage
