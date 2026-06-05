@@ -12,7 +12,8 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 - May 12, 2026: Results of [FusionRegister](https://arxiv.org/abs/2603.07667) (CVPR 2026) have been added to the Public Leaderboard.
 - May 15, 2026: Results of [TEDFusion](https://github.com/Shaoyun2023/TEDFusion) (ICML 2026) have been added to the Public Leaderboard.
 - May 16, 2026: Results of [SMLNet](https://arxiv.org/abs/2411.10679) (IJCV 2025, first attempt of manifold learning) have been added to the Public Leaderboard.
-- May 27, 2026: Results of [ISFL](https://arxiv.org/abs/2603.23272) (cvpr 2026, am intervention-based method) have been added to the Public Leaderboard.
+- May 27, 2026: Results of [ISFL](https://arxiv.org/abs/2603.23272) (cvpr 2026, an intervention-based method) have been added to the Public Leaderboard.
+- Jun 05, 2026: Results of [LTOFusion](https://ieeexplore.ieee.org/abstract/document/11433513) (TIP 2026, a Learning-To-Optimize framework with flow matching) have been added to the Public Leaderboard.
 
 ---
 ### <img width="22" src="icons/usage.png"> EvaJudge Usage
