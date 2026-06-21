@@ -15,6 +15,7 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 - May 27, 2026: Results of [ISFL](https://arxiv.org/abs/2603.23272) (cvpr 2026, an intervention-based method) have been added to the Public Leaderboard.
 - Jun 05, 2026: Results of [LTOFusion](https://ieeexplore.ieee.org/abstract/document/11433513) (TIP 2026, a Learning-To-Optimize framework with flow matching) have been added to the Public Leaderboard.
 - Jun 14, 2026: Results of [DSPFusion](https://ieeexplore.ieee.org/document/11559205) (TIP 2026, a dual prior guidance paradigm) have been added to the Public Leaderboard.
+- Jun 21, 2026: Results of [PBFNet](https://ieeexplore.ieee.org/document/11511378?utm_source=chatgpt.com) (TPAMI 2026, Image Fusion Based on Prior Information) have been added to the Public Leaderboard.
 
 ---
 ### <img width="22" src="icons/usage.png"> EvaJudge Usage
