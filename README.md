@@ -1,6 +1,10 @@
 # EvaNet [TPAMI 2026] 
 This is the offical implementation for the paper titled "EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment"([Arxiv](https://arxiv.org/abs/2604.02896), [Paper](https://ieeexplore.ieee.org/document/11477151)).
 
+<div align="center">
+  <img src="icons/poster.jpg" width="1000px" />
+</div>
+
 ---
 
 ### <img width="22" src="icons/announcement.png"> Announcement
