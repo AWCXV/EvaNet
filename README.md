@@ -32,7 +32,7 @@ Benchmark datasets can be founded [here](https://pan.baidu.com/s/1MC-Grq3dEel8ZF
  📮Email: chunyang_cheng@jiangnan.edu.cn ☎️WeChat: chengchunyang2016
 
 <div align="center">
-  <img src="images/public_leaderboard.png" width="1000px" />
+  <img src="images/public_leaderboard.jpg" width="1000px" />
 </div>
 
 #### 🔹 How to Use
