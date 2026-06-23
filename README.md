@@ -5,8 +5,6 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
   <img src="icons/poster.jpg" width="1000px" />
 </div>
 
----
-
 ### <img width="22" src="icons/announcement.png"> Announcement
 - Apr 03, 2026: Our paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - Apr 14, 2026: The online evaluation platform **EvaJudge** is now available: 👉 http://evanet.online:5001
