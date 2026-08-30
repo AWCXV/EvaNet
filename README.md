@@ -22,6 +22,7 @@ This is the offical implementation for the paper titled "EvaNet: Towards More Ef
 - Jul 11, 2026: Results of [TITA](https://arxiv.org/abs/2504.05164) (ICCV 2025, Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion) have been added to the Public Leaderboard.
 - Aug 12, 2026: Results of [TPOFusion](https://openaccess.thecvf.com/content/CVPR2026/html/Su_Fusion_in_Your_Way_Aligning_Image_Fusion_with_Heterogeneous_Demands_CVPR_2026_paper.html) (CVPR 2026, Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization) have been partially (fail to implement TNO dataset) added to the Public Leaderboard.
 - Aug 17, 2026: Results of [TextFuse](https://ieeexplore.ieee.org/abstract/document/11432942) (TMM 2026, TextFuse: Text Information Guided Infrared and Visible Image Fusion) have been added to the Public Leaderboard.
+- Aug 30, 2026: Results of [SCSFusion](https://ieeexplore.ieee.org/abstract/document/11329495) (TMM 2026, Multi-scale Spatial Channel Joint Representation for General Multi-modality Image Fusion with Self-supervision) have been added to the Public Leaderboard.
 
 ---
 ### <img width="22" src="icons/usage.png"> EvaJudge Usage
